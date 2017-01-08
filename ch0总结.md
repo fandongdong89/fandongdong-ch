@@ -1,0 +1,23 @@
+
+# ch0总结
+
+    - 在ch0的任务中，终于通过在Terminal上运行python3，从而比较P2和P3的区别。
+    - 选取了ex1、ex5、ex7、ex10、ex12、ex13、ex16进行任务，对本次任务进行简单小结如下
+
+## Python2与Python3的区别
+
+    * P2中print后面空格直接接需要输出的对象；而在P3中print()后面需要接圆括号。
+    * P3括号的范围包括除P2中带双引号的内容外，还需要把定义参数的内容加进去。例如：
+         P2：print "He's got %s eyes and %s hair." % (my_eyes, my_hair)；
+         P3： print("He's got %s eyes and %s hair." % (my_eyes, my_hair))
+    * raw_input和input: 在P3中，input直接替换掉raw_input。
+
+## markdown编辑语言
+   * 之前想下载macdown,后面发现Atom就已经足够。
+   * 学习地址：https://guides.github.com/features/mastering-markdown/
+
+## GitBook
+   * 按照班群里的提示，完成了首版《教自己学python》的GitBook, 经过尘原的提示，现在是修订版本2。感觉这也是一个很强大的工具。
+
+##  下一步行动目标
+   * 学习git语言和atom上的markdown编辑。
